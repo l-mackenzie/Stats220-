@@ -10,5 +10,5 @@ I made this github account and repository so that I can complete assessments for
 Please see this link to the website for my [Stats220 repo](https://github.com/l-mackenzie/Stats220-)
 
 
-Please also see my [meme] (), where  I recount my trials and tribulations with **SQL**. 
+Please also see my [meme](https://github.com/l-mackenzie/Stats220-/blob/main/laura's_meme.png), where  I recount my trials and tribulations with **SQL**. 
 
