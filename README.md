@@ -7,8 +7,8 @@ I made this github account and repository so that I can complete assessments for
 
 - _Are you one of the markers for this class?_
 
-Please see this link to the website for my [**Stats220 repo**] (https://github.com/l-mackenzie/Stats220-)
+Please see this link to the website for my [Stats220 repo](https://github.com/l-mackenzie/Stats220-)
 
 
-Please also see my meme below, where  I recount my trials and tribulations with **SQL**. 
+Please also see my [meme] (), where  I recount my trials and tribulations with **SQL**. 
 
