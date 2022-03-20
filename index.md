@@ -8,9 +8,9 @@ _What could be more original that that?_
 ![](laura's_meme.png)
 
 
-* You may notice a jarring yellow and grey combination when next to the distraught cat, recognising that they must revist SQL. I used this to structure my dislike towards query languages with a gross colo**u**r. 
+* You may notice a jarring yellow and grey combination when next to the distraught cat, recognising that they must revist SQL. I did this so that my dislike towards queries, was structured in language, and a gross colo**u**r. 
 
-* Pink and green is my favourite colo**u**r combination, so naturally I had to use this for the text around my excited cat. 
+* Pink and green is my favourite colo**u**r combination, so naturally I had to use this for the text beside my excited cat. 
 
 # My R Code
 
